@@ -1,0 +1,5 @@
+node_modules
+nbproject/private/
+app/config/default-config.js
+.vscode
+apidoc
